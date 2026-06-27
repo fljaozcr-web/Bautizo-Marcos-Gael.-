@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to bottom, #87CEFA, #FFE4B5); /* Fondo tropical */
+    color: #333;
+    text-align: center;
+}
+
+.pantalla-inicio {
+    padding: 100px 20px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 15px;
+    margin: 50px;
+}
+
+.pantalla-inicio h1 {
+    font-size: 3em;
+    color: #008080;
+}
+
+button {
+    background-color: #008080;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 20px;
+}
+
+button:hover {
+    background-color: #005757;
+}
